@@ -1,6 +1,20 @@
 # Awesome Awesomes
 A curated list of awesome awesome-resources.
 
+## Awesomes
+
+https://project-awesome.org/
+
+## Cryptocurrency
+
+https://github.com/cmahon/awesome-cryptocurrency
+
+https://github.com/Helmi/awesome-crypto
+
+## Cryptography
+
+https://github.com/sobolevn/awesome-cryptography
+
 ## Flask
 
 https://github.com/mjhea0/awesome-flask
